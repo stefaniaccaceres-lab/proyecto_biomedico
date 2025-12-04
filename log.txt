@@ -1,0 +1,2 @@
+Archivos generados correctamente.
+2025-12-03 23:26:33 - INFO - Inicio del sistema de registro de signos vitales

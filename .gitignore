@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+
+# Logs
+data/log.txt
+
+# Archivos sensibles
+MONGO_URI
+*.secret
