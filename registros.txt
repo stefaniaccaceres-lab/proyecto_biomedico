@@ -15,4 +15,5 @@
 {'id': 'ID-017', 'fr': '70 Anos', 'fc': '089ppm', 'spo2': '86%'}
 {'id': 'ID-018', 'fr': '48 Anos', 'fc': '068ppm', 'spo2': '85%'}
 {'id': 'ID-019', 'fr': '65 Anos', 'fc': '055ppm', 'spo2': '89%'}
-{'id': 'ID-020', 'fr': '47 Anos', 'fc': '071ppm', 'spo2': '98%'}
+{'id': 'ID-020', 'fr': '47 Anos', 'fc': '071ppm', 'spo2': '85%'}
+
